@@ -1,48 +1,53 @@
-# Hi there, I'm Raj Singh! 👋
+# 💫 Hi there, I'm Raj Singh! 💫 
+### Blockchain | Full-Stack | AI/ML Developer
 
-### 🚀 About Me
-- 👀 I’m interested in Web Development, Machine Learning, Blockchain, and Open Source.
-- 🌱 I’m currently learning Advanced React, Solidity, and AI-driven applications.
-- 💞 I’m looking to collaborate on innovative projects in AI, blockchain, and full-stack development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love cricket 🏏 and I'm a big fan of Rohit Sharma! 🎯 Also, I admire Roman Reigns from WWE! 💪🔥
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raj-Singh-3&theme=radical&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
-### 👯‍♂️ Connect with Me
-- **LinkedIn:** [Raj Singh](https://www.linkedin.com/in/raj-singh-92b104266/)
-- **Portfolio:** https://portfolio2-gray-iota.vercel.app/
-- **Email:** singhraj5604@gmail.com
+## 🚀 About Me
+- 🔭 I'm building the future with **Web3, AI, and cutting-edge web apps**
+- 🌱 Currently mastering **Advanced React Patterns, Smart Contract Security, and MLOps**
+- 👯 Looking to collaborate on **innovative open-source projects**
+- ⚡ Fun fact: **I can talk about cricket stats for hours!** 🏏
 
-### 🛠 Tech Stack
-#### 💻 Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
+## 🛠 Ultimate Tech Stack
 
-#### ⚙️ Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+### 🌐 Web Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-#### 🎨 Frontend:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### ⛓ Blockchain Development
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-#### 👥 Database:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### 🤖 AI/ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-#### 🔗 Blockchain & Crypto:
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
+## 📊 GitHub Analytics
 
-### 📈 GitHub Stats
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj-Singh-3&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj-Singh-3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Singh-3&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Singh-3&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raj-Singh-3&theme=radical&no-frame=true&row=1&column=7" alt="Raj's trophies" />
+</div>
 
----
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-singh-92b104266/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2-gray-iota.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/singhraj5604/)
 
-💻 **Let's build something amazing together!** 🚀
+
+## 📈 Weekly Development Breakdown
+```text
+🌐 Web Development  ████████████░░░░ 65% 
+⛓ Blockchain       ████████░░░░░░░░ 45%
+🤖 AI/ML           █████░░░░░░░░░░░ 30%
+📚 Learning        █████████░░░░░░░ 55%

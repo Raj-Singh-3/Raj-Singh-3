@@ -1,53 +1,179 @@
-# 💫 Hi there, I'm Raj Singh! 💫 
-### Blockchain | Full-Stack | AI/ML Developer
+# Hi 👋, I'm Raj Singh
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Raj-Singh-3&theme=radical&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+### Java Full Stack Developer | Spring Boot | React | GenC Next Intern @ Cognizant
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🚀 About Me
-- 🔭 I'm building the future with **Web3, AI, and cutting-edge web apps**
-- 🌱 Currently mastering **Advanced React Patterns, Smart Contract Security, and MLOps**
-- 👯 Looking to collaborate on **innovative open-source projects**
-- ⚡ Fun fact: **I can talk about cricket stats for hours!** 🏏
 
-## 🛠 Ultimate Tech Stack
+* 🎓 B.Tech CSE Student at Shri Ramdeobaba College of Engineering and Management, Nagpur
+* 💼 GenC Next Intern at Cognizant
+* 🌱 Currently learning:
 
-### 🌐 Web Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+  * Advanced Spring Boot
+  * Spring Security
+  * Apache Kafka
+  * Redis
+  * Docker
+  * System Design
+* 🔭 Building scalable Full Stack Applications using Spring Boot & React
+* 💡 Interested in Backend Engineering, Distributed Systems, AI Applications, and Cloud Technologies
+* 🏆 Smart India Hackathon (SIH) Semifinalist
+* 💻 Solved 700+ DSA Problems across LeetCode & GeeksforGeeks
+* ⭐ 3-Star Coder on GeeksforGeeks
 
-### ⛓ Blockchain Development
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+---
 
-### 🤖 AI/ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,sql" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,maven,aws" />
+</p>
+
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+* LangChain (Basics)
+* RAG
+* Prompt Engineering
+* Embeddings
+* Gemini API Integration
+
+---
+
+## 💼 Experience
+
+### Cognizant | Programmer Analyst Intern
+
+**Feb 2026 - Present**
+
+* Selected as GenC Next Intern
+* Developing BankGuard, a Real-Time Transaction Monitoring & Fraud Detection System
+* Building scalable backend APIs using Spring Boot
+* Developing React dashboards for real-time insights
+
+### Heal Bharat | Web Developer
+
+**Aug 2025 - Oct 2025**
+
+* Built Travel & Tours platform with Admin Panel
+* Implemented JWT Authentication & RBAC
+* Developed REST APIs and optimized MongoDB queries
+* Collaborated with cross-functional teams
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 BankGuard
+
+Real-Time Transaction Monitoring & Fraud Detection Platform
+
+**Tech Stack:** Spring Boot, Spring Security, React.js, Swagger, Gemini API
+
+⭐ Features:
+
+* Fraud Detection Engine
+* AI-Assisted Risk Analysis
+* Real-Time Monitoring Dashboard
+* Secure REST APIs
+
+---
+
+### 🕵️ TRAP
+
+Fraudulent Job Posting Detection System
+
+**Tech Stack:** MERN, Flask, Docker, MongoDB, Playwright
+
+⭐ Features:
+
+* ML-Based Fraud Detection
+* Browser Extension
+* LinkedIn & Naukri Verification
+* Real-Time Authenticity Checks
+
+---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj-Singh-3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Singh-3&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Raj-Singh-3&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Singh-3&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raj-Singh-3&theme=radical&no-frame=true&row=1&column=7" alt="Raj's trophies" />
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Singh-3&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Smart India Hackathon (SIH) Semifinalist
+* ⭐ GeeksforGeeks 3-Star Coder
+* 💯 700+ DSA Problems Solved
+* ☁️ AWS Cloud Practitioner Essentials Certified
+* 🎯 Active Member of RBU ACM Student Chapter
+
+---
+
+## 📈 Current Focus (2026)
+
+```text
+Spring Boot & Microservices   ████████████████████ 95%
+Data Structures & Algorithms  ██████████████████░ 90%
+React.js                      █████████████████░░ 85%
+Docker & DevOps               ███████████████░░░░ 75%
+System Design                 ████████████░░░░░░ 60%
+Apache Kafka                  ██████████░░░░░░░░ 50%
+Redis                         █████████░░░░░░░░░ 45%
+```
+
+---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-singh-92b104266/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2-gray-iota.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/singhraj5604/)
 
+<p align="left">
+<a href="https://www.linkedin.com/in/raj-laxman-singh/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://github.com/Raj-Singh-3/"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
 
-## 📈 Weekly Development Breakdown
-```text
-🌐 Web Development  ████████████░░░░ 65% 
-⛓ Blockchain       ████████░░░░░░░░ 45%
-🤖 AI/ML           █████░░░░░░░░░░░ 30%
-📚 Learning        █████████░░░░░░░ 55%
+📧 Email: [singhraj5604@gmail.com](mailto:singhraj5604@gmail.com)
+
+💼 Open to:
+
+* Software Development Engineer (SDE)
+* Backend Developer
+* Java Full Stack Developer
+* Spring Boot Developer
+* Graduate Software Engineer Roles

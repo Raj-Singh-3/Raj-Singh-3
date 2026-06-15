@@ -160,13 +160,19 @@ Redis                         █████████░░░░░░░�
 ```
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/raj-laxman-singh/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/Raj-Singh-3/"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/raj-laxman-singh/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Raj-Singh-3/">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
+
+🌐 **Portfolio:** https://portfolio2-gray-iota.vercel.app/
 
 📧 Email: [singhraj5604@gmail.com](mailto:singhraj5604@gmail.com)
 
